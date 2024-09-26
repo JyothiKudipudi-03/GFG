@@ -12,7 +12,7 @@ Output:
 #include <bits/stdc++.h>
 using namespace std;
 
-class Taking input {
+class Taking_input {
   public:
     void inputData() {
          int a ;
